@@ -1,0 +1,180 @@
+body{
+	background-image: url('img/11.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-color: #C4CBC6;
+}
+
+.head{
+	font-size: 70px; 
+	font-family: argos; 
+	color: black;
+	text-align: center;
+}
+
+.head2{
+	font-size: 20px; 
+	font-family: ..font/Calibri; 
+	color: black;
+	text-align: center;
+}
+
+.nav{
+	height: 46px;
+	width: 476px;
+	color: black;
+	background-color: black;
+	border: 1px solid black;
+	border-radius: 100px;
+	box-shadow: 5px 10px 18px black;
+	margin-top: 50px;
+}
+
+.nav-link{
+	color: grey;
+}
+
+.dropdown-menu{
+	background-color: grey;
+	border-radius: 20%;
+}
+
+.dropdown-item{
+	color: black;
+}
+
+.login{
+	background-color: black;
+	border: 1px solid black;
+	border-radius: 100px;
+	box-shadow: 5px 10px 18px black;
+	height: 46px;
+	width: 75px;
+	margin-top: 50px;
+}
+
+.title{
+	font-size: 30px;
+	font-family: ..font/avgardn.tff;
+	color: white;
+	text-align: left;
+}
+
+.title2{
+	font-size: 15px;
+	font-family: ..font/Trebuchet;
+	color: gray;
+	text-align: left;
+}
+
+.carousel1{
+	margin-top: 80px;
+	border-radius: 10px;
+	box-shadow: 5px 10px 18px black;
+	border: 30px solid black;
+	background: black;
+	width: 100%;
+	height: 80%;
+}
+
+.card{
+	border-radius: 10px;
+	box-shadow: 5px 10px 18px black;
+	border: 0px;
+	background-color: black;
+	margin-top: 8%;
+}
+
+.btn{
+	border: 0px;
+	background-color: #606361;
+	color: white
+}
+
+.card-title{
+	color: white;
+	text-align: left;
+}
+
+.card-text{
+	color: grey;
+	text-align: left;
+}
+
+.bottom{
+	border: 10px solid black;
+	width: 100%;
+	height: 30%;
+	background-color: black;
+	margin-top: 20%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	border-top-left-radius: 100px;
+	border-top-right-radius: 100px;
+}
+
+.contact{
+	font-size: 20px;
+	color: #969B97;
+}
+
+.fillcontact{
+	font-size: 12px;
+	color: #969B97;
+}
+
+.alamat{
+	font-size: 20px;
+	color: #969B97;
+}
+
+.fillalamat{
+	font-size: 12px;
+	color: #969B97;
+}
+
+.lead{
+	font-size: 20px;
+	color: #00FF70;
+	margin-bottom: 10px;
+}
+
+.but11{
+	background-color: black;
+	border: 1px solid black;
+	height: 46px;
+	width: 150px;
+	margin-top: 50px;
+}
+
+.news11{
+	border: 10px solid black;
+	background-color: black;
+	border-radius: 100px;
+	box-shadow: 5px 10px 18px black;
+	width: 90%;
+	height: 100%;
+	padding: 40px;
+	margin-top: 70px;
+}
+
+.head11{
+	font-size: 30px;
+	font-family: ..font/avgardn.tff;
+	color: white;
+}
+
+.tgl11{
+	font-size: 15px;
+	font-family: ..font/Trebuchet;
+	color: gray;
+	text-align: justify;
+}
+
+.isi11{
+	text-align: justify;
+	font-family: calibri;
+	color: white;
+	font-size: 16px;
+	margin-top: 5%;
+}
